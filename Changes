@@ -7,3 +7,10 @@ Revision history for Perl extension ModelSim::List.
 0.02  2005-7-10
 	- Add support for normal (non-event) list format. Agent++, Sal++
 	  288 tests passed.
+
+0.03  2005-7-19
+        - Prepare for uploading to CPAN. Use Module::Install in Makefile.PL
+
+0.04  2005-7-19
+        - Strip CR from my dos-format source files, add list file samples to
+          the POD document.

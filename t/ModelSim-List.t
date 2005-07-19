@@ -1,8 +1,8 @@
 #: ModelSim-List.t
 #: Test script for the ModelSim::List class
-#: ModelSim-List v0.02
+#: ModelSim-List v0.04
 #: Copyright (C) 2005 by Agent Zhang.
-#: 2005-07-02 2005-07-03
+#: 2005-07-02 2005-07-19
 
 use strict;
 #use warnings;

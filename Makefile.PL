@@ -4,7 +4,7 @@ use strict;
 #use Config;
 use inc::Module::Install;
 
-name            ('Template-Ast');
+name            ('ModelSim-List');
 version_from    ('lib/ModelSim/List.pm');
 abstract_from   ('lib/ModelSim/List.pm');
 author          ('Agent Zhang <agent2002@126.com>');

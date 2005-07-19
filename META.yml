@@ -1,6 +1,6 @@
-name: Template-Ast
-version: 0.03
-abstract: 
+name: ModelSim-List
+version: 0.04
+abstract: Analysis the ModelSim simulator list output
 author: Agent Zhang <agent2002@126.com>
 license: perl
 distribution_type: module

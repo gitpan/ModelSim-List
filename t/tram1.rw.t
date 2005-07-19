@@ -2,9 +2,9 @@
 #: Working with ram.do.tt to check in simulation list
 #:   outputs of ram.v
 #: This file was generated from ram.pl.tt
-#: Salent v0.05
-#: Copyright (C) 2005 Agent Zhang.
-#: 2005-07-03 2005-07-10
+#: ModelSim-List v0.04
+#: Copyright (c) 2005 Agent Zhang.
+#: 2005-07-03 2005-07-19
 
 use strict;
 #use warnings;
