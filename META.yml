@@ -1,0 +1,12 @@
+name: Template-Ast
+version: 0.03
+abstract: 
+author: Agent Zhang <agent2002@126.com>
+license: perl
+distribution_type: module
+build_requires:
+  Test::More: 0
+no_index:
+  directory:
+    - inc
+generated_by: Module::Install version 0.36
