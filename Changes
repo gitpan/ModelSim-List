@@ -18,3 +18,5 @@ Revision history for Perl extension ModelSim::List.
 0.05  2007-6-2
         - Some minor cleanups including META.yml/MANIFEST/tests/etc
 
+0.06  2007-602
+        - Fixed the formatting mistake in the CODE COVERAGE section.

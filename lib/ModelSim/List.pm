@@ -3,7 +3,7 @@ package ModelSim::List;
 use strict;
 use warnings;
 
-our $VERSION = '0.05';
+our $VERSION = '0.06';
 our $error;
 
 sub new ($) {
@@ -212,7 +212,7 @@ ModelSim::List - Analyse the 'list' output of the ModelSim simulator
 
 =head1 VERSION
 
-This document describes ModelSim::List 0.05 released on
+This document describes ModelSim::List 0.06 released on
 2 June, 2007.
 
 =head1 SYNOPSIS
@@ -348,11 +348,11 @@ L<http://rt.cpan.org>.
 I use L<Devel::Cover> to test the code coverage of this
 module and here is the report:
 
----------------------------- ------ ------ ------ ------ ------ ------ ------
-File                           stmt   bran   cond    sub    pod   time  total
----------------------------- ------ ------ ------ ------ ------ ------ ------
-blib/lib/ModelSim/List.pm      89.4   82.8   77.8   91.7   40.0   99.7   85.0
----------------------------- ------ ------ ------ ------ ------ ------ ------
+ ---------------------------- ------ ------ ------ ------ ------ ------ ------
+ File                           stmt   bran   cond    sub    pod   time  total
+ ---------------------------- ------ ------ ------ ------ ------ ------ ------
+ blib/lib/ModelSim/List.pm      89.4   82.8   77.8   91.7   40.0   99.7   85.0
+ ---------------------------- ------ ------ ------ ------ ------ ------ ------
 
 =head1 AUTHOR
 
