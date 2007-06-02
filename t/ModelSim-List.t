@@ -88,7 +88,7 @@ ok(!defined $list->time_of('/ram/bus_data', qr/^x+$/i, 882, 941));
 #TODO:
 {
     #local $TODO = 'Support for non-event list format is left to Sal++';
-    is($list->parse("$dir/ram_lst~/ram_4.lst"), 1);
+    is($list->parse("$dir/_ram_lst/ram_4.lst"), 1);
     ok(!defined $list->strobe('/ram/mfc', -0.9));
     is($list->strobe('/ram/mfc', 0), 0);
     is($list->strobe('/ram/mfc', 0.5), 0);

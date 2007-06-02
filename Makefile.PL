@@ -1,14 +1,13 @@
-#use 5.008001;
 use strict;
-#use warnings;
-#use Config;
 use inc::Module::Install;
 
 name            ('ModelSim-List');
-version_from    ('lib/ModelSim/List.pm');
-abstract_from   ('lib/ModelSim/List.pm');
-author          ('Agent Zhang <agent2002@126.com>');
+perl_version    ('5.004');
+all_from        ('lib/ModelSim/List.pm');
 license         ('perl');
+
 build_requires  ('Test::More');
 
+auto_install;
 &WriteAll;
+

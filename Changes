@@ -14,3 +14,7 @@ Revision history for Perl extension ModelSim::List.
 0.04  2005-7-19
         - Strip CR from my dos-format source files, add list file samples to
           the POD document.
+
+0.05  2007-6-2
+        - Some minor cleanups including META.yml/MANIFEST/tests/etc
+
